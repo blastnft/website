@@ -47,7 +47,7 @@
           class="w-10 h-10 fill-current"
           @click="() => onLinkClick({ link: '/', text: 'Homepage (logo)' })"
         />
-        <span class="pl-2 font-extrabold">BlastSora Protocol</span>
+        <span class="pl-2 font-extrabold">BlastNFT Protocol</span>
       </Link>
       <nav class="hidden md:flex justify-end w-full max-w-lg">
         <Link
