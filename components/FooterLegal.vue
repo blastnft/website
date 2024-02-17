@@ -16,7 +16,7 @@
       ©
       <a
         class="text-blueGreenLight hover:underline"
-        href="https://blastnft.xyz/"
+        href="https://blast-nft.xyz/"
         target="_blank"
         @click="onClick"
       >
