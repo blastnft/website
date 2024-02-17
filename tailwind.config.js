@@ -5,7 +5,7 @@ const theme = {
       Object.entries(breakpoints).map(([k, v]) => [k, `${v}px`])
     ),
     colors: {
-      blueGreen: '#4b72b3',
+      blueGreen: '#8DA5CF',
       blueGreenScreen: '#4c8ffe',
       blueGreenLight: '#8db5f7',
       deepBlue: '#23406e',
