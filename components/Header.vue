@@ -77,7 +77,7 @@ import Link from './Link';
 import Icon from './Icon.vue';
 
 const headerLinks = [
-  { text: 'App', link: 'https://blastnft.xyz' },
+  { text: 'App', link: 'https://app.blast-nft.xyz' },
   { text: 'Github', link: 'https://github.com/blastnft' },
   // { text: 'Discord', link: 'https://discord.gg/PMQsgaBwMX' },
   // { text: 'Docs', link: 'https://docs.ipfs.io/' },
