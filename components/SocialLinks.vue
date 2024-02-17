@@ -24,7 +24,7 @@ import Icon from './Icon';
 const socialLinks = [
   {
     text: 'Github',
-    link: 'https://github.com/merge-dao',
+    link: 'https://github.com/blastnft/',
     icon: 'github-icon',
   },
   {
@@ -34,7 +34,7 @@ const socialLinks = [
   },
   {
     text: 'Twitter',
-    link: 'http://twitter.com/mergedao',
+    link: 'https://twitter.com/ranhouzenyang',
     icon: 'twitter-icon',
   },
   // {
