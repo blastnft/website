@@ -3,12 +3,12 @@ export default {
   target: 'static',
 
   generate: {
-    fallback: 'matter-404.html',
+    fallback: 'blast-nft-404.html',
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Matter Protocol is the basic axiom of the nft world.',
+    title: 'BlastNFT Protocol is the basic axiom of the nft world.',
     htmlAttrs: {
       lang: 'en',
     },

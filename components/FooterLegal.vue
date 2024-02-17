@@ -16,11 +16,11 @@
       ©
       <a
         class="text-blueGreenLight hover:underline"
-        href="https://matter.services/"
+        href="https://blast-nft.xyz/"
         target="_blank"
         @click="onClick"
       >
-        Matter Protocol
+        BlastNFT Protocol
       </a>
       <!-- | Except as
       <a
